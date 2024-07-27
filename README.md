@@ -12,9 +12,9 @@ The dataset comprises production and reservoir data from approximately 300-400 w
 
 ## Data Preprocessing
 
-- Missing Values: Handled using imputation techniques.
-- Outliers: Detected and removed to ensure data quality.
-- Standardization: Applied to input features and target variables.
+- **Missing Values**: Handled using imputation techniques.
+- **Outliers**: Detected and removed to ensure data quality.
+- **Standardization**: Applied to input features and target variables.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -24,27 +24,27 @@ EDA was conducted to understand data distribution, correlations, and patterns, g
 
 ### Models Used
 
-1. Linear Regression
-2. Lasso Regression
-3. Ridge Regression
-4. K-Nearest Neighbors (KNN)
-5. Decision Trees
-6. Random Forest
-7. XGBoost
-8. ARIMA (for time-series analysis)
+1. **Linear Regression**
+2. **Lasso Regression**
+3. **Ridge Regression**
+4. **K-Nearest Neighbors (KNN)**
+5. **Decision Trees**
+6. **Random Forest**
+7. **XGBoost**
+8. **ARIMA (for time-series analysis)**
 
 ### Workflow
 
-1. Data Collection and Preprocessing
-2. Feature Selection
-3. Data Transformation
-4. Dataset Splitting
-5. Model Training and Hyperparameter Tuning
-6. Model Evaluation and Testing
+1. **Data Collection and Preprocessing**
+2. **Feature Selection**
+3. **Data Transformation**
+4. **Dataset Splitting**
+5. **Model Training and Hyperparameter Tuning**
+6. **Model Evaluation and Testing**
 
 ### Performance Metrics
 
-- R² Score: Measures the proportion of variance in the dependent variable predictable from the independent variables.
+- **R² Score**: Measures the proportion of variance in the dependent variable predictable from the independent variables.
 - **RMSE**: Root Mean Square Error, indicating the average magnitude of errors between observed and predicted values.
 
 ## Results and Discussion
